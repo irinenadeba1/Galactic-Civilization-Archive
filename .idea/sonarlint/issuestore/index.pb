@@ -11,3 +11,5 @@ Q
 !tests/alien-artifacts-nft.test.ts,6/b/6bf580c3fc8afe195b21c39aa1c212bef909eb8b
 S
 #tests/civilization-registry.test.ts,a/b/ab8efb1b416a86b80cc2b7ce044ef1f0bba27076
+O
+tests/historical-events.test.ts,b/0/b0bf236e0077205a2af269072d16de53f20e4e90
