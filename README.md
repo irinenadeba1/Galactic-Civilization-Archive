@@ -1,4 +1,4 @@
-# Galactic Civilization Archive
+**# Galactic Civilization Archive
 
 # Decentralized Galactic Civilization Archive (DGCA)
 
@@ -112,4 +112,4 @@ This project is licensed under the Galactic Commons License - see the [LICENSE](
 - The Galactic Historians Society
 - Xenoarchaeological Research Foundation
 - Distributed Systems Innovation Lab
-- First Contact Protocol Team
+- First Contact Protocol Team**
